@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace _02_Conditionals
 {
     [TestClass]
-    public class ConditionalExamples
+    public class Conditionals
     {
         [TestMethod]
         public void IfElseStatements()
